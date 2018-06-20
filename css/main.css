@@ -1863,7 +1863,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #950022;
+  background: #ff0fff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2914,7 +2914,7 @@ a {
   line-height: 1.5;
 }
 .container {
-  background-color: rgba(0,0,0,0.75);
+  background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1529421741866&di=6a94ecd121d1b25d2b89318c5671ec86&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201505%2F10%2F20150510002637_Mdzen.jpeg");
 }
 .posts-expand .post-meta {
   margin: 10px 0px 20px 0px;
